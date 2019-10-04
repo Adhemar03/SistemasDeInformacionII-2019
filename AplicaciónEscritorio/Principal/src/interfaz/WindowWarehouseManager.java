@@ -1,7 +1,7 @@
 /*
 Vista Principal del administrador de farmacia
  */
-package regprod;
+package interfaz;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
