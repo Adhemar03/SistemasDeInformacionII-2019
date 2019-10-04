@@ -7,4 +7,4 @@ tuve problemas para subirlo a github
 miercoles	2	10
 hubo cambios en la base de datos por lo que tendre que modificar la interfaz de usuario
 
-jueves
+jueves 
